@@ -8,3 +8,4 @@
 |2|prueba2.py|numero mayor es: |
 |3|prueba3.py|segundos a dias|
 |4|prueba4.py|division|
+|5|prueba5.py|multiplicacion|
