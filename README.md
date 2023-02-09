@@ -9,4 +9,4 @@
 |3|prueba3.py|segundos a dias|
 |4|prueba4.py|division|
 |5|prueba5.py|multiplicacion|
-|5|prueba6.py|ci|
+|6|prueba6.py|ci|
